@@ -1,5 +1,5 @@
-This is a demo for Question 3c 
-Assuming i have a collection of CSV files containing sales data from different regions, along with some related metadata and documentation.
+## This is a demo for Question 3c 
+### Assuming i have a collection of CSV files containing sales data from different regions, along with some related metadata and documentation.
 I uploaded a file with directory structure with breakdown as follows:
 
 data/: Contains all data files.
