@@ -1,0 +1,26 @@
+sales_data_project/
+├── data/
+│   ├── raw/
+│   │   ├── region_A_sales.csv
+│   │   ├── region_B_sales.csv
+│   │   └── region_C_sales.csv
+│   ├── processed/
+│   │   ├── sales_summary.csv
+│   │   └── region_wise_statistics.csv
+│   ├── metadata/
+│   │   ├── region_A_metadata.json
+│   │   ├── region_B_metadata.json
+│   │   └── region_C_metadata.json
+│   └── archive/
+│       ├── raw_backup_20230809.zip
+│       └── processed_backup_20230809.zip
+├── scripts/
+│   ├── data_cleaning.py
+│   ├── data_analysis.py
+│   └── visualization.ipynb
+├── docs/
+│   ├── README.md
+│   ├── data_description.md
+│   └── analysis_report.md
+├── .gitignore
+└── LICENSE
